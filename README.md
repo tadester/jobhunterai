@@ -2,8 +2,6 @@
 
 Smart JobHunter is an AI-powered job application tool that processes a candidate's resume to identify their target job category and location, retrieves matching job listings via the Adzuna API, and automatically submits applications using Selenium automation.
 
-> **Warning:**  
-> This tool is intended for demonstration and development purposes only. Automated submission of job applications to live websites (such as Indeed and LinkedIn) may violate their terms of service and could have legal or account-related consequences. Always test this application in a controlled environment before any live use.
 
 ## Features
 
