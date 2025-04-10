@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+pandas
+scikit-learn
+requests
+selenium 
+webdriver-manager
